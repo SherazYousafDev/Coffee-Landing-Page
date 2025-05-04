@@ -31,4 +31,11 @@ A **responsive and modern landing page** for a coffee brand, built with **HTML a
 - Smooth animations using Tailwind's built-in classes
 - Customizable and easy to extend
 
+---
+
+## 🙌 Credits
+
+- Built with ❤️ by Sheraz Yousaf (https://github.com/SherazYousafDev)
+- [Tailwind CSS](https://tailwindcss.com/)
+
   
